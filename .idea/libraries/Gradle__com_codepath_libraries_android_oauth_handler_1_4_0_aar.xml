@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.codepath.libraries:android-oauth-handler:1.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c31856e64c00d3ea65f27dfe7b42a3a/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c31856e64c00d3ea65f27dfe7b42a3a/jars/libs/codepath-utils.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5c31856e64c00d3ea65f27dfe7b42a3a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b271680198b84240353fc8a3e6f857e6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ec5b6148db3526ada585b6426dea0845/transformed/android-oauth-handler-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bf8b35625be82787afe438c249338786/transformed/jetified-android-oauth-handler-1.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d33a65010a17607815a6336fa6056770/transformed/jetified-android-oauth-handler-1.4.0/jars/libs/codepath-utils.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d33a65010a17607815a6336fa6056770/transformed/jetified-android-oauth-handler-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d33a65010a17607815a6336fa6056770/transformed/jetified-android-oauth-handler-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d33a65010a17607815a6336fa6056770/transformed/jetified-android-oauth-handler-1.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

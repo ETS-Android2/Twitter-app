@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.broakenmedia:CharCountTextView:v1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2b0f07157015b8a94abf5488309ed04/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2b0f07157015b8a94abf5488309ed04/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3cc3679e05d412ea5cab74c07bdfcda7/transformed/jetified-CharCountTextView-v1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3cc3679e05d412ea5cab74c07bdfcda7/transformed/jetified-CharCountTextView-v1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3cc3679e05d412ea5cab74c07bdfcda7/transformed/jetified-CharCountTextView-v1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
